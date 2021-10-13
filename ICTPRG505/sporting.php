@@ -1,6 +1,5 @@
 <?php include_once("inc/header.php"); ?>
 
-
 <div class="container-fluid">
     <div class="row lightbox">
 
